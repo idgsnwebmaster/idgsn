@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 
-	image nodes work thusly - 
-	name = name of the image
-	page = self or blank. Self means clicking the image opens the link in the same window, blank means it will open in a new window
-	between the opening and closing image tags is the url for the page that clicking the image opens
-	if the image should not be clickable, take out any text between the opening and closing tags, e.g.
-	<image name="techDispenser.gif" page="self"></image>
--->
-
-<showcase>
-	<image name="giga_homeMOD.jpg" page="self">audiences/index.php</image>
-	<image name="storage_mojo.jpg" page="self">audiences/index.php</image>
-	<image name="tech_dispenser.jpg" page="self">audiences/index.php</image>
-	<image name="sramana.gif" page="self">audiences/index.php</image>
-	<image name="4sysops.gif" page="self">audiences/index.php</image>
-	<image name="demo.gif" page="self">audiences/index.php</image>
-	<image name="digitalInspiration.gif" page="self">audiences/index.php</image>
-	<image name="theSystem.gif" page="self">audiences/index.php</image>
-	<!--
-	-->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	image nodes work thusly - 
+	name = name of the image
+	page = self or blank. Self means clicking the image opens the link in the same window, blank means it will open in a new window
+	between the opening and closing image tags is the url for the page that clicking the image opens
+	if the image should not be clickable, take out any text between the opening and closing tags, e.g.
+	<image name="techDispenser.gif" page="self"></image>
+-->
+
+<showcase>
+	<image name="giga_homeMOD.jpg" page="self">audiences/index.php</image>
+	<image name="storage_mojo.jpg" page="self">audiences/index.php</image>
+	<image name="tech_dispenser.jpg" page="self">audiences/index.php</image>
+	<image name="sramana.gif" page="self">audiences/index.php</image>
+	<image name="4sysops.gif" page="self">audiences/index.php</image>
+	<image name="demo.gif" page="self">audiences/index.php</image>
+	<image name="digitalInspiration.gif" page="self">audiences/index.php</image>
+	<image name="theSystem.gif" page="self">audiences/index.php</image>
+	<!--
+	-->
 </showcase>

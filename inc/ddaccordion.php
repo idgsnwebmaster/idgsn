@@ -15,10 +15,10 @@
 		togglehtml: ["none", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
 		animatespeed: 500, //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
 		oninit:function(expandedindices){ //custom code to run when headers have initalized
-		//do nothing
+			//do nothing
 		},
 		onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
-		//do nothing
+			//do nothing
 		}
 	})
 </script>

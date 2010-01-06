@@ -3,6 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<title>IDG TechNetwork | Capabilities</title>
+
 	<link rel="icon" type="image/x-ico" href="../favicon.ico" />
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
 	

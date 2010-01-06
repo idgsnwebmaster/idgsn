@@ -1,4 +1,3 @@
-
 var ddaccordion={
 	
 	contentclassname:{}, //object to store corresponding contentclass name based on headerclass
