@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html dir="ltr" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <title>Dynamic Source Code Viewing with jQuery</title>
+  <style type="text/css">
+    @import 'jqueryCodeView.css';
+  </style>
+  <script type="text/javascript" src="../js/jquery-1.2.3.pack.js"></script>
+  <script type="text/javascript" src="../js/jqueryCodeView.js"></script>
+</head>
+<body>
+<h1>Showing and hiding code examples with jQuery</h1>
+<p>Dabbling around with <a href="http://jquery.com">jQuery</a> for the last chapter in my 
+<a href="http://www.amazon.com/exec/obidos/ASIN/1590596803/onlinetoolsorg/">upcoming 
+book about JavaScript</a>, I realised it is dead easy to do something that 
+really annoyed the hell out of me for a long time:</p>
+<p>When you display code examples in online tutorials and you don't want to 
+use server side includes to show the code (as you want to offer the explanation 
+page as documentation as well) you need to maintain the code in two locations: 
+The code itself and the code examples in the documentation. Now, jQuery has 
+these really cool methods to do easy AJAX calls, why not use them to pull in the 
+code when the user clicks the link to the code? Click the following links for 
+examples, and right-click them to save the code examples. The first code example 
+is the jQuery code that makes it happen.</p>
+<ul>
+  <li><a href="jqueryCodeView.js" class="codeExample">jqueryCodeView.js</a></li>
+  <li><a href="jqueryCodeView.css" class="codeExample">jqueryCodeView.css</a></li>
+  <li><a href="index.html" class="codeExample">This document</a></li>
+</ul>
+<p>Turning a link into a "code preview" link is easy: simply add a class called "codeExample".</p>
+<p><a href="http://www.wait-till-i.com/index.php?p=281">Comment on the blog</a></p>
+<p class="fameandfortune"><a href="http://digg.com/submit?phase=2&#38;url=http://www.wait-till-i.com/index.php?p=281">Digg this</a>&nbsp;|&nbsp;<a href="http://del.icio.us/post?url=http://www.wait-till-i.com/index.php?p=281">Add to deli.cio.us</a>&nbsp;|&nbsp;<a href="http://technorati.com/cosmos/search.html?url=http://www.wait-till-i.com/index.php?p=281">Technorati</a></p>
+</body>
+</html>

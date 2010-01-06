@@ -1,0 +1,5 @@
+# robots.txt for http://www.idgtechnetwork.com/
+
+User-agent: *
+Disallow: /pdf/
+Disallow: /dev/

@@ -1,0 +1,30 @@
+/* CSS Document */
+
+* html body {
+	background: #878787;
+	background-image: none;
+}
+
+* html #header {
+	background: url(imgs/header_bg.gif) no-repeat top;
+}
+
+* html #content_wrapper {
+	background: url(imgs/content_wrapper_bg.gif) repeat-y top;
+}
+
+* html #home_content_wrapper {
+	background: url(imgs/home_content_wrapper_bg.gif) repeat-y top;
+}
+
+* html #footer {
+	background: url(imgs/footer_bg.gif) no-repeat top;
+}
+
+* html #nav li {
+	display: inline;
+}
+
+* html #sec_nav ul li {
+	height: 0;
+}
