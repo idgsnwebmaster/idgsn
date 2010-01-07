@@ -52,4 +52,5 @@ http://www.idgtechnetwork.com/about_us/in_the_news.php
 http://www.idgtechnetwork.com/about_us/press_releases.php
 http://www.idgtechnetwork.com/about_us/contact.php
 http://www.idgtechnetwork.com/about_us/directions.php
+http://www.idgtechnetwork.com/media_kits/index.php
 http://www.idgtechnetwork.com/terms/index.php

@@ -3,3 +3,10 @@
 User-agent: *
 Disallow: /pdf/
 Disallow: /dev/
+Disallow: /js/
+Disallow: /Scripts/
+Disallow: /flash/
+Disallow: /imgs/
+Disallow: /cgi-bin/
+Disallow: /favicon.ico
+Disallow: /warning_this$

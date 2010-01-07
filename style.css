@@ -1,6 +1,7 @@
 /* CSS Document */
 /* IE6-specific CSS */
-@import url("ie6win.css");
+/*@import url("ie6win.css");*/* html body {	background: #878787;	background-image: none;}* html #header {	background: url(imgs/header_bg.gif) no-repeat top;}* html #content_wrapper {	background: url(imgs/content_wrapper_bg.gif) repeat-y top;}* html #home_content_wrapper {	background: url(imgs/home_content_wrapper_bg.gif) repeat-y top;}* html #footer {	background: url(imgs/footer_bg.gif) no-repeat top;}* html #nav li {	display: inline;}* html #sec_nav ul li {	height: 0;}
+/* IE6-specific CSS */
 /* Reset styles in all browsers */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   margin: 0;
