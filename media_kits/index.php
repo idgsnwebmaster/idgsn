@@ -2,15 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	<title>IDG TechNetwork | Data Center</title>
+	<title>IDG TechNetwork | Media Kits</title>
 	
 	<link rel="icon" type="image/x-ico" href="../favicon.ico" />
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
 	
 	<?php include("../inc/head.php"); ?>
 	<?php
-		$section = "audiences";
-		$page = "enterprise_data_center";
+		$section = "media_kits";
+		$page = "index";
 	?>
 </head>
 <body>
@@ -21,18 +21,19 @@
 		</div>
 		<div id="content_wrapper">
 			<div id="content">
-				<div id="left_col">
-					<?php include("../inc/audiences_nav.php"); ?>
-				</div>
+				<div id="left_col" style="width: 166px; height: 20px;"></div>
 				<div id="column_container">
-					<h2 id="audiences_enterprise_header">Enterprise</h2>
+					<h2 id="media_kits_header">Media Kits</h2>
 					<div id="center_col">
-						<img class="thumbnail" src="../imgs/audiences/thumb_data_center.jpg" alt="" />
-						<h3>Data Center</h3>
-						<p>Virtualization? Green? Consolidation? What is your key Data Center differentiator?  IDG Tech Network can get your message to the IT Directors and IT influencers who implement and manage the heart of Enterprise computing environments.  We can build programs that put your products, services and applications into the hands of the top Data Center decision makers.</p>
+						<h1>Click below to download</h1><br/>
+						<h3>For Advertisers</h3>
+						<p><a href="http://www.box.net/shared/b3gtbynbcv" target="_blank">IDG Tech Network Sales Kit</a></p>
+						<h3>For Publishers</h3>
+						<p><a href="http://www.box.net/shared/zd5ci61z6x" target="_blank">Explore the World's Largest Tech Media Network</a></p>
+						<h3>For Content Partners</h3>
+						<p><a href="http://www.box.net/shared/2hp873g7rp" target="_blank">Get content from the World's Largest Tech News Organization</a></p>
 					</div>
 					<div id="right_col">
-						<?php include("../inc/audiences/enterprise_demographics_module.php"); ?>
 						<?php include("../inc/featured_module.php"); ?>
 					</div>
 				</div>

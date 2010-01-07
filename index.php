@@ -30,6 +30,7 @@
 					<li id="audiences"><a href="audiences/index.php">Audiences</a></li>
 					<li id="publishers"><a href="publishers/index.php">Publishers</a></li>
 					<li id="about_us"><a href="about_us/index.php">About Us</a></li>
+					<li id="media_kits"><a href="media_kits/index.php">Media Kits</a></li>
 				</ul>
 			</div>
 		</div>
@@ -73,9 +74,13 @@
 		</div>
 		<div id="footer">
 			<div id="footer_left">
-				<a href="capabilities/index.php">Capabilities</a> / <a href="advertisers/index.php">Advertisers</a> /
-				<a href="audiences/index.php">Audiences</a> / <a href="publishers/index.php">Publishers</a> /
-				<a href="about_us/index.php">About Us</a> / <a href="terms/index.php">Terms of Service</a>
+				<a href="capabilities/index.php">Capabilities</a> /
+				<a href="advertisers/index.php">Advertisers</a> /
+				<a href="audiences/index.php">Audiences</a> /
+				<a href="publishers/index.php">Publishers</a> /
+				<a href="about_us/index.php">About Us</a> /
+				<a href="media_kits/index.php">Media Kits</a> /
+				<a href="terms/index.php">Terms of Service</a>
 			</div>
 			<div id="footer_right">&copy; 2009 IDG TechNetwork, All Rights Reserved.</div>
 			<div id="external_links">

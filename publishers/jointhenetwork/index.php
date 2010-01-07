@@ -66,6 +66,7 @@
 					<li id="audiences<?php if ($section == "audiences") { ?>_active<?php } ?>"><a href="../../audiences/index.php">Audiences</a></li>
 					<li id="publishers<?php if ($section == "publishers") { ?>_active<?php } ?>"><a href="../../publishers/index.php">Publishers</a></li>
 					<li id="about_us<?php if ($section == "about_us") { ?>_active<?php } ?>"><a href="../../about_us/index.php">About Us</a></li>
+					<li id="media_kits<?php if ($section == "media_kits") { ?>_active<?php } ?>"><a href="../../media_kits/index.php">Media Kits</a></li>
 				</ul>
 			</div>
 		</div>

@@ -35,27 +35,14 @@
 							(646) 783-7819<br />
 							<a href="directions.php">Driving directions</a>
 						</p>
-						<h4>Primary Contact:</h4>
-						<p>Brian Gleason: VP, Sales<br />Office: 203-240-6733<br /><a href="mailto:Brian_Gleason@idgtechnet.com">Brian_Gleason@idgtechnet.com</a></p>
-						<h4>Advertising Contacts:</h4>
-						<p>For more information on advertising and custom marketing solutions, email:</p>
-						<p><a href="mailto:adsalesIDGTN@idgtechnetwork.com">adsalesIDGTN@idgtechnetwork.com</a></p>
-						<h4>Business Contacts:</h4>
-						<p>For business development opportunities or other general business questions, email:</p>
-						<p><a href="mailto:bizdevIDGTN@idgtechnetwork.com">bizdevIDGTN@idgtechnetwork.com</a></p>
-						<p>
-							<strong>Howard Sholkin</strong>; Director, Communications &amp;  Marketing
-							Programs<br />
-							Phone: 508-988-7696<br />
-							Fax: 508-370-0020
-						</p>
+						<h4>Advertising Inquiries and Sales</h4>
+						<p>Email: <a href="mailto:adsalesIDGTN@idgtechnetwork.com">adsalesIDGTN@idgtechnetwork.com</a></p>
+						<h4>Publisher Inquiries or to Join the Network</h4>
+						<p>Email: <a href="mailto:PublisherServices@IDGSN.com">PublisherServices@IDGSN.com</a></p>
+						<h4>Business development opportunities or other general business questions</h4>
+						<p>Email: <a href="mailto:bizdevIDGTN@idgtechnetwork.com">bizdevIDGTN@idgtechnetwork.com</a></p>
 						<h4>Career Opportunities:</h4>
-						<p>
-							We are growing. If you are looking for an opportunity to be
-							part of fast growing online media company then check out the latest
-							job listings: <a href="http://careers.idg.com/www/HomeNew.nsf/docs/careers_at_idg" target="_blank">click
-							here</a>
-						</p>
+						<p>We are growing. If you are looking for an opportunity to be part of fast growing online media company then check out the latest job listings: <a href="http://careers.idg.com/www/HomeNew.nsf/docs/careers_at_idg" target="_blank">click here</a></p>
 						<h4>IDG TechNetwork is part of <a href="http://www.idg.com/www/homenew.nsf/home?readform" target="_blank">IDG</a></h4>
 						<p>
 							For more than four decades, IDG has been committed to informing

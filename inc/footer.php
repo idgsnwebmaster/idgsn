@@ -5,6 +5,7 @@
 		<a href="../audiences/index.php">Audiences</a> /
 		<a href="../publishers/index.php">Publishers</a> /
 		<a href="../about_us/index.php">About Us</a> /
+		<a href="../media_kits/index.php">Media Kits</a> /
 		<a href="../terms/index.php">Terms of Service</a>
 	</div>
 	<div id="footer_right">
