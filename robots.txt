@@ -5,8 +5,8 @@ Disallow: /pdf/
 Disallow: /dev/
 Disallow: /js/
 Disallow: /Scripts/
-Disallow: /flash/
 Disallow: /imgs/
+Disallow: /flash/
 Disallow: /cgi-bin/
 Disallow: /favicon.ico
 Disallow: /warning_this$
