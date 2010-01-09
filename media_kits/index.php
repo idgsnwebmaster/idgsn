@@ -25,7 +25,7 @@
 				<div id="column_container">
 					<h2 id="media_kits_header">Media Kits</h2>
 					<div id="center_col">
-						<h1>Click below to download</h1><br/>
+						<p>IDG Tech Network offers a wide array of solutions for advertisers, publishers, and content providers. Download one of our media kits and find out why IDG Tech Network is the #1 technology network, and how we can help you reach millions of technology customers.</p>
 						<h3>For Advertisers</h3>
 						<p><a href="http://www.box.net/shared/b3gtbynbcv" target="_blank">IDG Tech Network Sales Kit</a></p>
 						<h3>For Publishers</h3>
