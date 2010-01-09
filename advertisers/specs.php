@@ -6,8 +6,8 @@
 
 	<link rel="icon" type="image/x-ico" href="../favicon.ico" />
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+
 	<?php include("../inc/head.php"); ?>
-	
 	<?php
 		$section = "advertisers";
 		$page = "specs";
@@ -67,7 +67,7 @@
 							<li><strong>Due Date</strong>: Please allow 5 business days before
 							live date.</li>
 							<li><strong>Tracking:</strong> IDG TechNetwork.com tracks click-throughs
-							and impressions on all advertisements through Adify and provides
+							and impressions on all advertisements and provides
 							the advertiser with periodic reports. </li>
 						</ul>      
 						<h4>300x250 (IMU)&nbsp; </h4>
@@ -160,8 +160,7 @@
 						<ul type="disc">
 							<li>Company logo</li>
 							<li>3 sets of content, each with title and 50 words</li>
-							<li>For more information on these units, please contact <a href="mailto:Bill_Rigby@IDGTechNetwork.com">IDG
-							Tech Network&rsquo;s Client Services Department</a></li>
+							<li>For more information on these units, please contact <a href="mailto:publisherservices@idgsn.com">IDG	Tech Network's Publisher Services Department</a></li>
 						</ul>
 						<h4>In-Banner Video/Webcast Units</h4>
 						<p>We can accept the following formats for IMU Video ads, with no time
@@ -176,7 +175,7 @@
 						<ul type="disc">
 							<li>55 characters with linking URL</li>
 							<li><strong>Tracking:</strong> IDG TechNetwork.com tracks click-throughs
-							on all advertisements through Adify, and provides the advertiser
+							on all advertisements and provides the advertiser
 							with periodic reports. </li>
 							<li><strong>Due Date</strong>: Please allow 5 business days before
 							live date. </li>
@@ -185,7 +184,7 @@
 						<ul type="disc">
 							<li>55 characters with linking URL</li>
 							<li><strong>Tracking:</strong> IDG TechNetwork.com tracks click-throughs
-							on all advertisements through Adify, and provides the advertiser
+							on all advertisements and provides the advertiser
 							with periodic reports. </li>
 							<li><strong>Due Date</strong>: Please allow 5 business days before
 							live date. </li>
