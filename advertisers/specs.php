@@ -28,24 +28,20 @@
 					<h2 id="specs_header">Online Specifications</h2>
 					<div id="single_column">
 						<h3>General Specifications </h3>
-						<p>All sites in the IDG TechNetwork accept all Rich Media creative
-						for all ad units, including but not limited to:</p>
+						<p>Most sites in the IDG TechNetwork accept all Rich Media creative for all ad units, including but not limited to:</p>
 						<ul type="disc">
 							<li>Eyeblaster</li>
 							<li>Pointroll</li>
 							<li>Klipmart</li>
 							<li>DART (Motif) </li>
 						</ul>
-						<p>Ad materials served through a third-party vendor may have a maximum
-						size limit of 95K. Ad materials hosted by IDG TechNetwork have a
-						maximum size limit of 35K.</p>
 						<h4>Additional Requirements </h4>
 						<ul>
 							<li><strong>Video</strong>
 								<ul>
 									<li>Can start with ad launch</li>
 									<li>User initiated video has no time limits</li>
-									<li>Must turn off with click or when rolled off</li>
+									<li>Must turn off with click</li>
 								</ul>
 							</li>
 							<li><strong>Sound</strong>
@@ -62,13 +58,12 @@
 						</ul>
 						<h3>Banner Ads</h3>
 						<ul type="disc">
-							<li>Maximum number of loops: 3</li>
+							<li>Maximum number of loops: 3 (total animation time of 30 seconds)</li>
 							<li>Alt text: 60 Characters&nbsp;&nbsp; </li>
 							<li><strong>Due Date</strong>: Please allow 5 business days before
 							live date.</li>
 							<li><strong>Tracking:</strong> IDG TechNetwork.com tracks click-throughs
-							and impressions on all advertisements and provides
-							the advertiser with periodic reports. </li>
+							and impressions on all advertisements</li>
 						</ul>      
 						<h4>300x250 (IMU)&nbsp; </h4>
 						<ul>
@@ -96,16 +91,15 @@
 						</ul>
 						<h3>Flash Files (Hosted by IDG TechNetwork) </h3>
 						<ul type="disc">
-							<li>Provide creative in Flash (.swf) file format (35K max.)</li>
-							<li>Include backup .gif (35K max.), to support viewers who do not
-							have Flash enabled</li>
+							<li>Provide creative in Flash (.swf) file format (40K max.)</li>
+							<li>Include backup.gif</li>
 							<li>Provide clickthrough URL &mdash; <strong>do NOT hard code the
 							URL into the .swf file</strong></li>
-							<li>Include a button action in the Flash file coded as follows:<br />
+							<li>Include a button action in the Flash file coded as follows (Actionscript 2 or lower; Actionscript 3 is pending support):<br />
 								<br />
 								<code> 
 									on (release) {<br />
-										getURL(_level0.clickTAG, "_blank");<br />
+										getURL(_root.clickTAG, "_blank");<br />
 									}
 								</code>
 							</li>
@@ -113,8 +107,9 @@
 						<h4>Peel Back Ad Unit</h4>
 						<ul type="disc">
 							<li>Two creative components are needed to make up this unit, with
-							both files not to exceed 95K in file size:
+							both files not to exceed 40K in file size:
 								<ul>
+									<li>Must be created by a 3<sup>rd</sup> party Rich Media Vendor</li>
 									<li><strong>125x100</strong> &ndash;  gif. or Flash teaser unit
 									is located at the top right of the site</li>
 									<li><strong>800x600</strong> &ndash; Ad size that the teaser
@@ -125,7 +120,7 @@
 								<ul>
 									<li>Can start with ad launch </li>
 									<li>User initiated video has no time limits, but, must turn off
-									with click or when rolled off of </li>
+									with click</li>
 								</ul>
 							</li>
 							<li>Sound
@@ -141,14 +136,14 @@
 						<p>A take-over ad that welcomes users to IDG TechNetwork site </p>
 						<ul>
 							<li>Dimensions: 640x480</li>
-							<li>May include 20 seconds maximum of video and sound
+							<li>May include 20 seconds maximum of sound and video
 								<ul>
 									<li>Video can start with ad launch</li>
 									<li>Sound must be user initiated by click and have a control
 									button to turn off sound</li>
 								</ul>
 							</li>
-							<li>Maximum file size: 95K</li>
+							<li>Maximum file size: 40K</li>
 							<li><strong>Due Date</strong>: Please allow 5 business days before
 							live date. </li>
 						</ul>
@@ -163,13 +158,13 @@
 							<li>For more information on these units, please contact <a href="mailto:publisherservices@idgsn.com">IDG	Tech Network's Publisher Services Department</a></li>
 						</ul>
 						<h4>In-Banner Video/Webcast Units</h4>
-						<p>We can accept the following formats for IMU Video ads, with no time
-						limits for the videos:</p>
+						<p>In-Banner videos have a 30 second limit, unless initiated with a click. The following formats are accepted:</p>
 						<ul type="disc">
 							<li>320 X 240 Encoded Flash Video Files (.FLV)</li>
 							<li>.wmv</li>
 							<li>QT.MOV </li>
 							<li>DV Cam Tape <strong>(Preferred)</strong></li>
+							<li>Videos must be served via a Rich Media vendor*</li>
 						</ul>
 						<h4>Text Links</h4>
 						<ul type="disc">
