@@ -192,6 +192,45 @@
 							<li><strong>Due Date</strong>: Please allow 5 business days before
 							live date.</li>
 						</ul>
+						<h4>Pushdown Units</h4>
+						<ul>
+							<li><b>Required files:</b>
+								<ul>
+									<li>Banner (collapsed): 970(w) x 90(h), 39k max file size</li>
+									<li>Banner (expanded): 970(w) x 200 – 418(h), 961k max file size, hosted by 3rd Party Media Vendor*</li>
+									<li>BackUp GIF: 970(w) x 90(h), 15k max file size</li>
+								</ul>
+							</li>
+							<li><b>Specifications:</b>
+								<ul>
+									<li>Expansion: Auto expansion frequency capped at 1 per user per day (this can be adjusted on a case by case basis), subsequent expansions must be user initiated on clickDuration.</li>
+									<li>8 seconds on frequency capped auto expansion, unlimited for subsequent user initiated expansions</li>
+									<li>May include video functionality </li>
+									<li>Must contain a clearly defined Expand & Close click button - user initiated expansion on rollover not allowed. The expanded state must have clearly visible close buttons in the upper right corner </li>
+									<li>The ad will collapse if the user clicks the close button OR if the user does not interact with the user initiated expanded ad for 8 seconds </li>
+									<li>Frame Labels: The main timeline should contain the (3) three frame labels below to control the behavior as follows:
+										<ul type="circle"><b>Prompt</b>
+											<li>When the ad reaches its minimum height of 66 pixels, the playback head will display this frame label</li>
+											<li>This frame label should contain the collapsed 970x66 portion of the ad Prompt</li>
+										</ul>
+										<ul type="circle"><b>Expanding</b>
+											<li>While the pushdown ad is expanding and pushing page elements downwards, the playback head will display this frame label</li>
+											<li>This frame label should contain static imagery for when the ad expands</li>
+										</ul>
+										<ul type="circle"><b>Animate</b>
+											<li>Once the ad has completed expanding and reaches the max height of 418 pixels, the playback head will display this frame label</li>
+											<li>This frame label should contain all animation for the expanded pushdown</li>
+										</ul>
+										<ul type="circle"><b>Audio</b>
+											<li>Must be user initiated by click </li>
+											<li>All audio enabled ads must have prominently displayed audio controls (mute/unmute) when/if applicable</li>
+											<li>Must be encoded at a maximum volume of -12db</li>
+										</ul>
+									</li>
+									</ul>
+								</ul>
+							</li>
+						</ul>
 					</div>
 				</div>
 			</div>
