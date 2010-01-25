@@ -155,7 +155,7 @@
 						<ul type="disc">
 							<li>Company logo</li>
 							<li>3 sets of content, each with title and 50 words</li>
-							<li>For more information on these units, please contact <a href="mailto:publisherservices@idgsn.com">IDG	Tech Network's Publisher Services Department</a></li>
+							<li>For more information on these units, please contact <a href="mailto:adsalesIDGTN@idgtechnetwork.com">adsalesIDGTN@idgtechnetwork.com</a></li>
 						</ul>
 						<h4>In-Banner Video/Webcast Units</h4>
 						<p>In-Banner videos have a 30 second limit, unless initiated with a click. The following formats are accepted:</p>
