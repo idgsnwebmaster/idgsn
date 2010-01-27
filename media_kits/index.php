@@ -32,6 +32,8 @@
 						<p><a href="http://www.box.net/shared/zd5ci61z6x" target="_blank">Explore the World's Largest Tech Media Network</a></p>
 						<h3>For Content Partners</h3>
 						<p><a href="http://www.box.net/shared/2hp873g7rp" target="_blank">Get content from the World's Largest Tech News Organization</a></p>
+						<h3>Sell Sheets (One Sheeters)</h3>
+						<p><a href="http://www.box.net/shared/fclxn8rl2h" target="_blank">IDG Tech Network Overview</a></p>
 					</div>
 					<div id="right_col">
 						<?php include("../inc/featured_module.php"); ?>
